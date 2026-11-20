@@ -50,7 +50,7 @@ http://45.188.229.33:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium HD Opcion 2" group-title="PRUEBA",ESPN Premium HD Opcion 2
 http://45.188.229.33:8000/play/a1di/index.m3u8
 
-‎#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="⚽ ESPN",ESPN Deportes
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="⚽ ESPN",ESPN Deportes
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 
 # ===== DSPORTS =====
