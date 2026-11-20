@@ -118,10 +118,10 @@ http://45.188.229.33:8000/play/a1cp/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Fox_Sports_logo.jpg" group-title="⚽ FOX SPORTS",Fox Sports 2 Opcion 1
 http://45.188.229.33:8000/play/a1ae/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Fox_Sports_logo.jpg" group-title="⚽ FOX SPORTS",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png" group-title="⚽ FOX SPORTS",Fox Sports 2 HD
 http://45.188.229.33:8000/play/a1b1/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Fox_Sports_logo.jpg" group-title="⚽ FOX SPORTS",Fox Sports HD
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-lam.png" group-title="⚽ FOX SPORTS",Fox Sports HD
 http://45.188.229.33:8000/play/a1dh/index.m3u8
 
 # ===== OTROS DEPORTES =====
