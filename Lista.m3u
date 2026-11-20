@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 # ===== ESPN =====
@@ -46,6 +45,9 @@ http://45.173.231.22:8000/play/a062/index.m3u8
 http://45.173.231.22:8000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN Premium HD Opcion 1" tvg-logo="https://www.tvlogo.org/world-latin-america/espn-premium-lam.png" group-title="⚽ ESPN",ESPN Premium HD Opcion 1
+http://45.188.229.33:8000/play/a1di/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium HD Opcion 2" tvg-logo="https://www.tvlogo.org/world-latin-america/espn-premium-lam.png" group-title="⚽ ESPN",ESPN Premium HD Opcion 2
 http://45.188.229.33:8000/play/a1di/index.m3u8
 
 ‎#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="⚽ ESPN",ESPN Deportes
