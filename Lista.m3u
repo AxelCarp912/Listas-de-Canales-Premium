@@ -75,8 +75,9 @@ http://38.95.86.0:61400/play/a07u/index.m3u8
 
 # ===== TYC SPORTS =====
 
-#EXTINF:-1 tvg-name="TyC Sports Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="⚽ TYC SPORTS",TyC Sports Internacional (Feed CL)
-http://45.4.3.177:9999/play/a0fv
+#EXTINF:-1 tvg-name="TyC Sports Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="⚽ TYC SPORTS",TyC Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8
 
 
 # ===== OTROS DEPORTES =====
