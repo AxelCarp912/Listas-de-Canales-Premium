@@ -152,3 +152,15 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8
 #EXTINF:-1 group-title="Caricaturas 24/7",Scooby Doo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/804.m3u8
+
+#EXTINF:-1 tvg-name="La Liga" tvg-logo="" group-title="OTROS DEPORTES",La Liga
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="ESPN Premium Latam" tvg-logo="" group-title="OTROS DEPORTES",ESPN Premium Latam
+http://45.188.229.33:8000/play/a1l4/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="" group-title="OTROS DEPORTES",TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="" group-title="OTROS DEPORTES",Azteca Deportes
+http://190.61.101.11:7050/play/a08l/index.m3u8?hls
