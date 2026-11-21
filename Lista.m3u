@@ -157,7 +157,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/804.m3u8
 http://190.61.101.11:7050/play/a04g/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="ESPN Premium Latam" tvg-logo="" group-title="OTROS DEPORTES",ESPN Premium Latam
-http://45.188.229.33:8000/play/a1l4/index.m3u8
+http://38.7.195.44:8000/play/a04g
 
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="" group-title="OTROS DEPORTES",TUDN
 http://190.61.101.11:7050/play/a04m/index.m3u8?hls
